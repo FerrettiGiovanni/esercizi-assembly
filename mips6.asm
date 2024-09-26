@@ -5,13 +5,13 @@
 .globl main
 
 main:
-	lb $t0, Batman
-	lb $t1, Robin
-	add $t2, $t0, $t1
-	div $t2, $t2, 2
+	lb $t0, Batman #Inserisco il dato contenuto nella memoria dati definito in Batman in $t0
+	lb $t1, Robin #Inserisco il dato contenuto nella memoria dati definito in Robin in $t1
+	add $t2, $t0, $t1 #Eseguo un'operazione di somma che inserisco nel registro $t2
+	div $t2, $t2, 2 # Effettuo la divisione intera per 2 del valore contenuto nel registro $t2
 
 li $v0, 10
-syscall
+syscall #termino il programma
 
 .data
 	Batman: .byte 5
