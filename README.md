@@ -13,9 +13,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips6.asm**: Definiti due numeri in memoria riporta la loro media (fra interi) in $t2 Esempio: Batman=5 Robin=8 media=(5+8)/2=6.
 - **mips7.asm**: Calcola il prezzo al netto dello sconto
 - **mips8.asm**: Valutare il massimo fra due numeri definiti in memoria, riportare risultato in memoria
-
+- **mips9.asm**: Realizzare un contatore da 0 a 100
+- **mips10.asm**: Mettere in t2 il valore 1 o 2 se il numero è rispettivamente multiplo di 7 o no
   
 (...in progress...)
-
-Assicurati di avere un ambiente di sviluppo appropriato per l'assembly.
 
