@@ -5,16 +5,19 @@
 .globl main
 
 main:
-	lb $t0, NumeroA # carico il dato di NumeroA
-	lb $t1, NumeroB # carico il dato del secondo
-	move $t2, $t1 #sposto il valore da un indirizzo ad un altro
-	blt $t0, $t1, Max # eseguo un confronto
-	move $t2, $t0 # sposta in caso di necessità
+	lb $t0, numeroA # carico il dato di NumeroA
+	lb $t1, numeroB # carico il dato del secondo
+	move $t2, $t1 #definisco NumeroB nel registro $t1 e lo considero il valore massimo
+	blt $t0, $t1, max_B # eseguo un confronto: se numeroA è più piccolo di numeroB, salto a max_B
+	move $t2, $t0 # altrimenti sposto in $t2 il valore numeroA
 	
-li $v0, 10
-syscall
+
+max_B:
+	sb $t2, max # metto $t2 nella memoria dati max
+	li $v0, 10
+	syscall # termino il programma
 
 .data
-	NumeroA: .byte 4
-	NumeroB:.byte 5
-	Max: .byte 0
+	numeroA: .byte 4
+	numeroB:.byte 5
+	max: .byte 0
