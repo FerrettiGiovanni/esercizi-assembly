@@ -18,5 +18,3 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
   
 (...in progress...)
 
-Assicurati di avere un ambiente di sviluppo appropriato per l'assembly.
-
