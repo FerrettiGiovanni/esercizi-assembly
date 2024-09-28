@@ -15,6 +15,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips8.asm**: Valutare il massimo fra due numeri definiti in memoria, riportare risultato in memoria
 - **mips9.asm**: Realizzare un contatore da 0 a 100
 - **mips10.asm**: Mettere in t2 il valore 1 o 2 se il numero è rispettivamente multiplo di 7 o no
+- **mips11.asm**: Calcola Fattoriale di un Numero
   
 (...in progress...)
 
