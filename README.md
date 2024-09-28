@@ -17,6 +17,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips10.asm**: Mettere in t2 il valore 1 o 2 se il numero è rispettivamente multiplo di 7 o no
 - **mips11.asm**: Calcola Fattoriale di un Numero
 - **mips12.asm** : Verificare se un numero e' primo
+- **mips13.asm** : Sommatoria, continua a sommare i valori fino a quando il valore immesso e' zero
   
 (...in progress...)
 
