@@ -19,6 +19,9 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips12.asm** : Verificare se un numero e' primo
 - **mips13.asm** : Sommatoria, continua a sommare i valori fino a quando il valore immesso e' zero
 - **mips14.asm** : Media aritmetica di 5 valori
+- **mips15.asm** : Calcola Velocita Approssimata
+- **mips16.asm** : Converte un valore da scala Celsius a scala Fahrenheit
+- **mips17.asm** : Varie Operazioni su bit e dati .half
   
 (...in progress...)
 
