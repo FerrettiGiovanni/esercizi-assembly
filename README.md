@@ -18,6 +18,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips11.asm**: Calcola Fattoriale di un Numero
 - **mips12.asm** : Verificare se un numero e' primo
 - **mips13.asm** : Sommatoria, continua a sommare i valori fino a quando il valore immesso e' zero
+- **mips14.asm** : Media aritmetica di 5 valori
   
 (...in progress...)
 
