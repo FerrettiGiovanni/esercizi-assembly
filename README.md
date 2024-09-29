@@ -22,6 +22,9 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips15.asm** : Calcola Velocita Approssimata
 - **mips16.asm** : Converte un valore da scala Celsius a scala Fahrenheit
 - **mips17.asm** : Varie Operazioni su bit e dati .half
+- **mips18.asm**  : Imposta in t0 il valore 1 se l'operando definito in memoria Batman è maggiore dell'operando definito in memoria Robin
+- **mips19.asm** : Calcola la somma dei primi n interi
+- **mips20.asm** : Legge un valore intero da tastiera e scrive su registro t1 se il bit alla terza posizione meno significativa del numero acquisito ha un 1
   
 (...in progress...)
 
