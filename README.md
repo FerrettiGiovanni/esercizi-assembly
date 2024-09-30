@@ -25,6 +25,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips18.asm**  : Imposta in t0 il valore 1 se l'operando definito in memoria Batman è maggiore dell'operando definito in memoria Robin
 - **mips19.asm** : Calcola la somma dei primi n interi
 - **mips20.asm** : Legge un valore intero da tastiera e scrive su registro t1 se il bit alla terza posizione meno significativa del numero acquisito ha un 1
+- **mips21.asm** : Inserire un valore intero e poi un altro valore intero che vada a definire quale bit andare a leggere e restituire il valore letto.
+- **mips22.asm** : Inserire un valore intero e contare il numero di 1 da cui è formato
   
 (...in progress...)
 
