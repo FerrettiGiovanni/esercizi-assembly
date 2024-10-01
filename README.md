@@ -27,6 +27,9 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips20.asm** : Legge un valore intero da tastiera e scrive su registro t1 se il bit alla terza posizione meno significativa del numero acquisito ha un 1
 - **mips21.asm** : Inserire un valore intero e poi un altro valore intero che vada a definire quale bit andare a leggere e restituire il valore letto.
 - **mips22.asm** : Inserire un valore intero e contare il numero di 1 da cui è formato
+- **mips23.asm** : Esempio di somma tra due numeri reali definiti in memoria
+- **mips24.asm** : Definiti due numeri reali in memoria r1 e r2 riporta la media (fra reali) in $f2
+- **mips25.asm** : Letti quattro numeri interi da tastiera effettua la media dei primi due numeri e la media dei secondi due numeri e pone in $t9 il valore 1 se la prima media e' maggiore della seconda altrimento $t9 e' impostato a 0
   
 (...in progress...)
 
