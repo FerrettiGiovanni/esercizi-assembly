@@ -31,7 +31,7 @@ main:
     mtc1 $t2, $f4
     mtc1 $t3, $f6
 
-# Converto tutti e 4 i valori in double
+# Converto tutti e 4 i valori in single
     cvt.s.w $f0, $f0
     cvt.s.w $f2, $f2
     cvt.s.w $f4, $f4
