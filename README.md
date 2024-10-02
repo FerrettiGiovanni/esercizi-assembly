@@ -31,6 +31,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips24.asm** : Definiti due numeri reali in memoria r1 e r2 riporta la media (fra reali) in $f2
 - **mips25.asm** : Letti quattro numeri interi da tastiera effettua la media dei primi due numeri e la media dei secondi due numeri e pone in $t9 il valore 1 se la prima media e' maggiore della seconda altrimento $t9 e' impostato a 0
 - **mips26.asm** : Calcola media ponderata e verifica se e' maggiore di una certa soglia
+- **mips27.asm** : Fare confronto senza usare istruzioni di comparazione
+- **mips28.asm** : Fare il prodotto fra due valori senza usare mul
   
 (...in progress...)
 
