@@ -33,6 +33,6 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips26.asm** : Calcola media ponderata e verifica se e' maggiore di una certa soglia
 - **mips27.asm** : Fare confronto senza usare istruzioni di comparazione
 - **mips28.asm** : Fare il prodotto fra due valori senza usare mul
-  
+- **mips29.asm** : Verifica numero primo
 (...in progress...)
 
