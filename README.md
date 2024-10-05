@@ -36,6 +36,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips29.asm** : Verifica numero primo
 - **mips30.asm** : Acquisito un intero positivo (da 0 a 255)scrivere il valore binario al contrario
 - **mips31.asm** : restituisce il cubo del numero stesso facendo uso soltanto di operazioni di somma.
+- **mips32.asm** : Legge una sequenza di interi positivi da tastiera conta il numero complessivo dei numeri che sono multipli di 3, di 5 oppure di 7
+- **mips33.asm** : Legge tre numeri interi da tastiera mette in 3 registri la sequenza dei tre numeri in ordine monotono non decrescente.
 
 (...in progress...)
 
