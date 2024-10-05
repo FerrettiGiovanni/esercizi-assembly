@@ -40,6 +40,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips33.asm** : Legge tre numeri interi da tastiera mette in 3 registri la sequenza dei tre numeri in ordine monotono non decrescente.
 - **mips34.asm** : Calcolare il massimo comun divisore (MCD)
 - **mips35.asm** : Calcolare la media (float) tra i cinque numeri interi.
+- **mips36.asm** : Calcola la trattenuta da versare in uno stipendio
 
 (...in progress...)
 
