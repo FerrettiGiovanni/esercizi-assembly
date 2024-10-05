@@ -35,5 +35,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips28.asm** : Fare il prodotto fra due valori senza usare mul
 - **mips29.asm** : Verifica numero primo
 - **mips30.asm** : Acquisito un intero positivo (da 0 a 255)scrivere il valore binario al contrario
+- **mips31.asm** : restituisce il cubo del numero stesso facendo uso soltanto di operazioni di somma.
+
 (...in progress...)
 
