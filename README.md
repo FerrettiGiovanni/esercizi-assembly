@@ -44,5 +44,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips37.asm** : Calcola la distanza fra due punti
 - **mips38.asm** : Calcola area di 3 cerchi sapendo il raggio e mettili in ordine di grandezza decrescente
 - **mips39.asm** : Calcola la ridottan-esima della serie armonica
+- **mips40.asm** : Trova massimo fra 3 valori utilizzando salto a sub-routine
+
 (...in progress...)
 
