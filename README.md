@@ -45,6 +45,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips38.asm** : Calcola area di 3 cerchi sapendo il raggio e mettili in ordine di grandezza decrescente
 - **mips39.asm** : Calcola la ridottan-esima della serie armonica
 - **mips40.asm** : Trova massimo fra 3 valori utilizzando salto a sub-routine
+- **mips41.asm** : Calcolo la potenza tramite una funzione a sub-routine inserendo base ed esponente da terminale
 
 (...in progress...)
 
