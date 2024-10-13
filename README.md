@@ -49,6 +49,10 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips42.asm** : Programma che riceve in ingresso tre numeri interi h, m e s e restituisce il numero di secondi trascorsi dalla mezzanotte
 - **mips43.asm** : Calcola area, ipotenusa e perimetro di un triangolo rettangolo inserendo solo lunghezza dei cateti
 - **mips44.asm** : Mostrare la sequenza di Collatz inserendo un numero intero, stampando anche la sua lunghezza
+- **mips45.asm** : Tirare 2 dati e scrivere a terminale se e' uscita una coppia
+- **mips46.asm** : Lanciare una moneta 100 volte e stampare su terminale quante testa e quante croci sono uscite
+- **mips47.asm** : Lanciare 3 dadi e scrivere a terminale se e' uscito un tris, una coppia o tutti diversi
+- **mips48.asm** : Estrarre tre palline numerate e stamparne il valore; estrazione senza ripetizioni
 
 (...in progress...)
 
