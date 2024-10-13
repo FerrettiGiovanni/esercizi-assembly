@@ -53,6 +53,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips46.asm** : Lanciare una moneta 100 volte e stampare su terminale quante testa e quante croci sono uscite
 - **mips47.asm** : Lanciare 3 dadi e scrivere a terminale se e' uscito un tris, una coppia o tutti diversi
 - **mips48.asm** : Estrarre tre palline numerate e stamparne il valore; estrazione senza ripetizioni
+- **mips49.asm** : Definire vettore di lunghezza 10 word e inserire da terminale 10 valori e stamparli
+- **mips50.asm** : Stampare un vettore inserito da terminale in modo invertito
 
 (...in progress...)
 
