@@ -47,6 +47,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips40.asm** : Trova massimo fra 3 valori utilizzando salto a sub-routine
 - **mips41.asm** : Calcolo la potenza tramite una funzione a sub-routine inserendo base ed esponente da terminale
 - **mips42.asm** : Programma che riceve in ingresso tre numeri interi h, m e s e restituisce il numero di secondi trascorsi dalla mezzanotte
+- **mips43.asm** : Calcola area, ipotenusa e perimetro di un triangolo rettangolo inserendo solo lunghezza dei cateti
+- **mips44.asm** : Mostrare la sequenza di Collatz inserendo un numero intero, stampando anche la sua lunghezza
 
 (...in progress...)
 
