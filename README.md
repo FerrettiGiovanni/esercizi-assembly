@@ -55,6 +55,8 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips48.asm** : Estrarre tre palline numerate e stamparne il valore; estrazione senza ripetizioni
 - **mips49.asm** : Definire vettore di lunghezza 10 word e inserire da terminale 10 valori e stamparli
 - **mips50.asm** : Stampare un vettore inserito da terminale in modo invertito
+- **mips51.asm** : Inserire 6 word da terminale e determinare con una stringa a video se la sequenza cresce, decresce oppure nessuna delle due
+- **mips52.asm** : Crea vettore di 50 interi contenente numeri casuali compresi tra 0-50. Inserire un numero compreso tra 0-50 e ricerca tale numero nel vettore. Per ogni occorrenza stampa la posizione in cui è stato trovato e numero di elementi trovati.
 
 (...in progress...)
 
