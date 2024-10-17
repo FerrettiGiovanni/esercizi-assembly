@@ -59,6 +59,7 @@ Questo repository contiene una serie di esercitazioni in linguaggio assembly. Og
 - **mips52.asm** : Crea vettore di 50 interi contenente numeri casuali compresi tra 0-50. Inserire un numero compreso tra 0-50 e ricerca tale numero nel vettore. Per ogni occorrenza stampa la posizione in cui è stato trovato e numero di elementi trovati.
 - **mips53.asm** : Genera un vettore di 10 elementi con numeri compreso da 0 a 999 e calcolarne la somma, la media, il min e il max attraverso delle funzioni
 - **mips54.asm** : Definite due stringhe di ugual misura, calcolare la similitudine fra le due stringhe che e' data dal numero dei caratteri uguali diviso la lunghezza della stringa
+- **mips55.asm** : Definita una stringa in memoria e letto un carattere da tastiera, calcola il numero di occorrenze del carattere nella stringa
 
 (...in progress...)
 
